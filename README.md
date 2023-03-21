@@ -1,4 +1,4 @@
-##Curso Analista de Dados (EBAC) - Exercício 19
+**##Curso Analista de Dados (EBAC) - Exercício 19**
 
 Este repositório tem como objetivo, colocar em prática os conhecimentos adquiridos durante as aulas do curso.
 
